@@ -1,0 +1,13 @@
+{
+    "name": "ev3 extension",
+    "version": "1.5.0",
+    "description": "ev3 extension test",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "public": true
+}
